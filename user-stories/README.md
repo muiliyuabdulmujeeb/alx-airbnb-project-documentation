@@ -1,0 +1,1 @@
+I wrote 5 each user stories for Guest and Host while i wrote two for Admin

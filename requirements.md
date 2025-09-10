@@ -1,11 +1,11 @@
-# 📌 Backend Requirement Specifications – Airbnb Clone
+#  Backend Requirement Specifications – Airbnb Clone
 
 This document defines the technical and functional requirements for the backend features of the Airbnb Clone project.  
 It covers **User Management**, **Property Listings Management**, and **Search & Filtering**.
 
 ---
 
-## 1. 🔑 User Management
+## 1.  User Management
 
 ### Functional Requirements
 - Users can register as **Guests** or **Hosts**.
@@ -36,7 +36,7 @@ It covers **User Management**, **Property Listings Management**, and **Search & 
 
 ---
 
-## 2. 🏠 Property Listings Management
+## 2.  Property Listings Management
 
 ### Functional Requirements
 - Hosts can **create, edit, and delete** property listings.
@@ -67,7 +67,7 @@ It covers **User Management**, **Property Listings Management**, and **Search & 
 
 ---
 
-## 3. 🔍 Search and Filtering
+## 3.  Search and Filtering
 
 ### Functional Requirements
 - Users can search properties by:
@@ -96,7 +96,7 @@ It covers **User Management**, **Property Listings Management**, and **Search & 
 
 ---
 
-## ✅ Summary
+##  Summary
 This requirements document ensures the backend is:
 - **Secure** (JWT, OAuth, validation rules),
 - **Scalable** (pagination, query optimization),
